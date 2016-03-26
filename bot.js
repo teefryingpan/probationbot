@@ -77,7 +77,6 @@ function generateResponse() {
     'Sippy are you kidding me?',
     '*sighs*',
     '*dramatic eye-roll* fineeeeeeeee.',
-    'I'm a noob.',
     'You would be much more successful if you wrote a real letter to Hennessy and people in the administration',
     
     
