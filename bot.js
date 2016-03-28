@@ -69,7 +69,7 @@ function generateResponse() {
     'dafuq?',
     'Where is this? Can I come?',
     'fucking tanicia',
-    'Everyone but calrpicz',
+    'Everyone but clarpicz',
     'boooooo',
     'uhhhhh',
     'Sanders definitely still has a chance',
