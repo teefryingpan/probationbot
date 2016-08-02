@@ -56,7 +56,7 @@ function postMessage() {
 function generateResponse() {
   console.log('generating response');
   var responseArray = [
-    'Yes.',
+    'No waves, no glory',
   ];  
   return responseArray[Math.floor(Math.random()*responseArray.length)];
 }
